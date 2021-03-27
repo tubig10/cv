@@ -1,0 +1,37 @@
+
+.left-side{
+    background-color:#00346e;
+    color:white;
+    vertical-align:top;
+    padding: 15px;
+    
+}
+
+
+.title{
+    background-color: rgb(0, 0, 97);
+    padding: 5px;
+}
+
+.left-side  h4 , .left-side p, .left-side h1 {
+   
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+.right-side{
+    padding: 15px;
+    
+}
+
+.right-side table td{
+
+    padding: 20px;
+}
+
+.right-side hr{
+    background-color: rgb(0, 0, 97);
+    height: 1px;
+
+}
